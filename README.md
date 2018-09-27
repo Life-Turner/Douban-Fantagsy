@@ -1,5 +1,6 @@
 # Douban-Fantagsy
-## To scrap the information of Douban Books according different tags
+## Functions
+### To scrap the information of Douban Books according different tags
 
 ## Road Map
 - Open the targeted Douban page with a tag name
