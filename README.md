@@ -4,7 +4,8 @@
 
 ## Road Map
 - Ideas
-  1. Open the targeted Douban page with a tag name
-  2. Scrap the book/movie's name & id
-  3. Save them to the database
+  1. Make a nice header
+  2. Open the targeted Douban page with a tag name
+  3. Scrap the book/movie's name & id
+  4. Save them to the database
 - Code
