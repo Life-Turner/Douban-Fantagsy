@@ -6,6 +6,7 @@
 - Ideas
   1. Make a nice header
   2. Open the targeted Douban page with a tag name
-  3. Scrap the book/movie's name & id
-  4. Save them to the database
+  3. Scrap the book/movie's id
+  4. Scrap the book/movie's information according to their id in Douban's API website
+  5. Save the infortion in the database
 - Code
