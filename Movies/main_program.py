@@ -75,8 +75,8 @@ for page in range(pages):
 			;'''.format(tb_name = table_name,
 				my_index = my_index,
 				dbid = ID_info['dbid'],
-				title = ID_info['title'],
-				chi_title = ID_info['chi_title'],
+				title = ID_info['title'].replace('"', "'"),
+				chi_title = ID_info['chi_title'].replace('"', "'"),
 				average_rate = ID_info['average'],
 				raters = ID_info['raters']
 				)
